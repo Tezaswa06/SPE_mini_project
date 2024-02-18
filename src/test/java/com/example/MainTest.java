@@ -1,5 +1,5 @@
-package org.example;
-import org.example.Main;
+package com.example;
+import com.example.Main;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
